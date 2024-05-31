@@ -15,3 +15,6 @@ Python adalah bahasa pemrograman multi-paradigma. Pemrograman berorientasi objek
 4 Kompleks lebih baik daripada rumit.
 Keterbacaan itu penting.
 Daripada memiliki semua fungsionalitas yang dibangun ke dalam intinya, Python dirancang untuk menjadi sangat dapat dikembangkan. Modularitas yang ringkas ini membuatnya sangat populer sebagai sarana untuk menambahkan antarmuka yang dapat diprogram ke aplikasi yang ada. Visi Van Rossum tentang bahasa inti kecil dengan perpustakaan standar yang besar dan penerjemah yang mudah diperluas berasal dari rasa frustrasinya dengan ABC, yang mendukung pendekatan yang berlawanan.
+
+# Sintaks dan semantik
+Python dimaksudkan sebagai bahasa yang mudah dibaca. Pemformatannya tidak berantakan secara visual, dan sering kali menggunakan kata kunci bahasa Inggris di mana bahasa lain menggunakan tanda baca. Tidak seperti banyak bahasa lain, ia tidak menggunakan tanda kurung awal untuk membatasi blok, dan pernyataan titik koma setelahnya bersifat opsional. Ini memiliki lebih sedikit pengecualian sintaksis dan kasus khusus daripada C atau Pascal.
